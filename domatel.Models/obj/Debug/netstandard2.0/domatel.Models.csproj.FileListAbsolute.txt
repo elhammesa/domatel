@@ -1,0 +1,33 @@
+C:\Users\ely\source\repos\domatell\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.deps.json
+C:\Users\ely\source\repos\domatell\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\source\repos\domatell\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.csproj.CoreCompileInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfoInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfo.cs
+C:\Users\ely\source\repos\domatell\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\source\repos\domatell\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\source\repos\domatell\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.deps.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.deps.json
+C:\Users\ely\Desktop\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.deps.json
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.AssemblyInfo.cs
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Models\obj\Debug\netstandard2.0\domatel.Models.pdb

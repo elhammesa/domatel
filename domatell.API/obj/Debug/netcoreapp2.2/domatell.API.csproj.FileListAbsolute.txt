@@ -1,0 +1,92 @@
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.deps.json
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.json
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.dev.json
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CoreCompileInputs.cache
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cache
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cs
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfoInputs.cache
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfo.cs
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorTargetAssemblyInfo.cache
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csprojAssemblyReference.cache
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.dll
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.dll
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.pdb
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.pdb
+C:\Users\ely\source\repos\domatell\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CopyComplete
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.dll
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.pdb
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.dll
+C:\Users\ely\source\repos\domatell\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.deps.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.dev.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cs
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorTargetAssemblyInfo.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.deps.json
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.json
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.dev.json
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cache
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cs
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorTargetAssemblyInfo.cache
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\domatel-back\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.deps.json
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.json
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.runtimeconfig.dev.json
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatell.API.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Interface.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Services.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\bin\Debug\netcoreapp2.2\domatel.Models.pdb
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cache
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorAssemblyInfo.cs
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.AssemblyInfo.cs
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.RazorTargetAssemblyInfo.cache
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.csproj.CopyComplete
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.dll
+C:\Users\ely\Desktop\New folder (3)\domatell.API\obj\Debug\netcoreapp2.2\domatell.API.pdb

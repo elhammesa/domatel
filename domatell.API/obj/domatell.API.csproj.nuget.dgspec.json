@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatell.API\\domatell.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj",
+        "projectName": "domatel.DataLayer",
+        "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj",
+        "projectName": "domatel.Interface",
+        "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj",
+        "projectName": "domatel.Models",
+        "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\domatel.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\domatel.Services.csproj",
+        "projectName": "domatel.Services",
+        "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\domatel.Services.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj"
+              },
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatell.API\\domatell.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatell.API\\domatell.API.csproj",
+        "projectName": "domatell.API",
+        "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatell.API\\domatell.API.csproj",
+        "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatell.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ely\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj"
+              },
+              "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\domatel.Services.csproj": {
+                "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Services\\domatel.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

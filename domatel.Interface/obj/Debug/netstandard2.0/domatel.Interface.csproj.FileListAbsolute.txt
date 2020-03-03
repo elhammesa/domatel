@@ -1,0 +1,48 @@
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csprojAssemblyReference.cache
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfoInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfo.cs
+C:\Users\ely\source\repos\domatell\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.deps.json
+C:\Users\ely\source\repos\domatell\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\source\repos\domatell\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\source\repos\domatell\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\source\repos\domatell\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CopyComplete
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\source\repos\domatell\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.deps.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.deps.json
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.deps.json
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.AssemblyInfo.cs
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.csproj.CopyComplete
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Interface\obj\Debug\netstandard2.0\domatel.Interface.pdb

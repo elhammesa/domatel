@@ -1,0 +1,64 @@
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.deps.json
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csprojAssemblyReference.cache
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CoreCompileInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfoInputs.cache
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfo.cs
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.dll
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.pdb
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\source\repos\domatell\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\source\repos\domatell\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.deps.json
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.deps.json
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfo.cs
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CopyComplete
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\domatel-back\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.deps.json
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Services.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.DataLayer.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Interface.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\bin\Debug\netstandard2.0\domatel.Models.pdb
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csprojAssemblyReference.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CoreCompileInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfoInputs.cache
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.AssemblyInfo.cs
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.csproj.CopyComplete
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.dll
+C:\Users\ely\Desktop\New folder (3)\domatel.Services\obj\Debug\netstandard2.0\domatel.Services.pdb
