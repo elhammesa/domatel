@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj",
       "projectName": "domatel.Models",
-      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj",
+      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj",
       "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\obj\\",
+      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

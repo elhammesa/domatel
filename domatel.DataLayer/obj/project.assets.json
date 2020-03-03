@@ -3945,11 +3945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.DataLayer\\domatel.DataLayer.csproj",
       "projectName": "domatel.DataLayer",
-      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\domatel.DataLayer.csproj",
+      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.DataLayer\\domatel.DataLayer.csproj",
       "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3968,8 +3968,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj": {
-              "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj"
+            "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj": {
+              "projectPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj"
             }
           }
         }

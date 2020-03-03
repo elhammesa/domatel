@@ -765,11 +765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Interface\\domatel.Interface.csproj",
       "projectName": "domatel.Interface",
-      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\domatel.Interface.csproj",
+      "projectPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Interface\\domatel.Interface.csproj",
       "packagesPath": "C:\\Users\\ely\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Interface\\obj\\",
+      "outputPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -788,8 +788,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj": {
-              "projectPath": "C:\\Users\\ely\\Desktop\\domatel-heroku\\domatel.Models\\domatel.Models.csproj"
+            "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj": {
+              "projectPath": "C:\\Users\\ely\\Desktop\\domatel-github\\domatel.Models\\domatel.Models.csproj"
             }
           }
         }
